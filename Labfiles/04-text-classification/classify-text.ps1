@@ -1,6 +1,6 @@
 # Update these with your service and model values
-$key="<YOUR-KEY>"
-$endpoint="<YOUR-ENDPOINT>"
+$key="9kVvoysFp3eberXA2naMofUQbDbQ5y2ITgobcek9dQVmOymSAFjMJQQJ99BDACYeBjFXJ3w3AAAaACOGkPhb"
+$endpoint="9kVvoysFp3eberXA2naMofUQbDbQ5y2ITgobcek9dQVmOymSAFjMJQQJ99BDACYeBjFXJ3w3AAAaACOGkPhb"
 $projectName = "ClassifyLab"
 $deploymentName = "articles"
 $verbose = $false
